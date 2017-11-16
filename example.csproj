@@ -12,7 +12,6 @@
   <PackageReference Include="Dapper" Version="1.50.2"/>
   <PackageReference Include="Jquery" Version="1.50.2"/>
   <PackageReference Include="DryIoc" Version="2.8.2"/>
-  <PackageReference Include="DryIoc.Owin" Version="2.0.3"/>
   <PackageReference Include="DryIoc.WebApi" Version="2.1.1"/>
   <PackageReference Include="DryIoc.WebApi.Owin" Version="2.0.1"/>
   <PackageReference Include="EnterpriseLibrary.SemanticLogging" Version="2.0.1406.1"/>
